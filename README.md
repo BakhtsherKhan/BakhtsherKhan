@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bakhtsher Khan</h1>
+f<h1 align="center">Hi, I'm Bakhtsher Khan</h1>
 
 <p align="center">
   <b>PhD Researcher | Cybersecurity · Network Security · IoT Security</b>
@@ -103,7 +103,7 @@ A Python client-server messaging application implementing RSA, Diffie-Hellman, a
 ### Let's Connect
 
 - **Affiliation:** University of Science and Technology of China (USTC), Hefei
-- **LinkedIn:** [Bakht Sher Khan](https://www.linkedin.com/in/bakht-sher-khan-746014153/)
+- **LinkedIn:** [Bakht Sher Ali](https://www.linkedin.com/in/bakht-sher-khan-746014153/)
 - **Google Scholar:** [View my publications](https://scholar.google.com/citations?user=dd1FIj8AAAAJ&hl=en)
 - **ORCID:** [0000-0001-9988-0578](https://orcid.org/0000-0001-9988-0578)
 
