@@ -1,4 +1,4 @@
-f<h1 align="center">Hi, I'm Bakhtsher Khan</h1>
+<h1 align="center">Hi, I'm Bakht Sher Ali</h1>
 
 <p align="center">
   <b>PhD Researcher | Cybersecurity · Network Security · IoT Security</b>
